@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Taha
 
-<!--
-**leadgentaha/leadgentaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Graphic Designer | Age 18**
 
-Here are some ideas to get you started:
+I create simple, clean designs that actually work, not just look good.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+- Social media posts  
+- Amazon Listing Images
+- Game Assets  
+- Posters & marketing designs  
+
+---
+
+## 🛠️ Tools I Use
+- **Adobe Illustrator**  
+- **Adobe Photoshop**  
+- **Canva**  
+
+---
+
+## 💡 About Me
+I'm always learning and improving with every project.  
+I enjoy turning ideas into visuals that are clear, effective, and impactful.
+
+---
+
+## 🌐 Founder
+[Unimore](https://www.unimore.pk)
+
+---
+
+> *Open to creative work and collaborations.*
