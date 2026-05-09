@@ -1,35 +1,186 @@
-# 👋 Hi, I'm Taha
+<div align="center">
 
-**Graphic Designer | Age 18**
+# Taha Faisal
 
-I create simple, clean designs that actually work, not just look good.
+### CS Major • Builder • Designer • Developer
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences;Design+%2B+Development;Jack+of+All+Trades;Currently+Building+FreelanceScore" />
 
-## 🚀 What I Do
-- Social media posts  
-- Amazon Listing Images
-- Game Assets  
-- Posters & marketing designs  
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=leadgentaha&label=Profile+Views&color=7C3AED&style=flat" />
 
-## 🛠️ Tools I Use
-- **Adobe Illustrator**  
-- **Adobe Photoshop**  
-- **Canva**  
+</div>
 
 ---
 
-## 💡 About Me
-I'm always learning and improving with every project.  
-I enjoy turning ideas into visuals that are clear, effective, and impactful.
+# /about/taha.json
+
+```json
+{
+  "name": "Taha Faisal",
+  "role": "CS Major Student",
+  "identity": "Designer + Developer",
+  "mindset": "Build. Break. Improve.",
+  "currently_building": "FreelanceScore",
+  "speciality": "Turning ideas into digital products",
+  "status": "Always shipping something"
+}
+```
 
 ---
 
-## 🌐 Founder
-[Unimore](https://www.unimore.pk)
+## Who Am I?
+
+I’m a CS major who loves building digital products from scratch.
+
+Most people choose either **design** or **development**.  
+I decided to learn both.
+
+I enjoy creating products that not only work well technically, but also feel smooth, modern, and memorable.
 
 ---
 
-> *Open to creative work and collaborations.*
+# Current Mission
+
+## FreelanceScore
+
+```txt
+A platform focused on trust, reputation,
+and smarter freelancer evaluation.
+```
+
+### Core Focus
+- Reputation Signals
+- Trust Metrics
+- Performance Scoring
+- Digital Identity
+- Freelance Analytics
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,ts,js,tailwind,figma,firebase,python,git,github,vscode,aws" />
+
+</div>
+
+---
+
+# Design + Development
+
+<table>
+<tr>
+<td width="50%">
+
+## Design
+- UI/UX Systems
+- Brand Identity
+- Product Design
+- Motion Design
+- Creative Direction
+
+</td>
+
+<td width="50%">
+
+## Development
+- Full Stack Apps
+- APIs & Integrations
+- Automation Systems
+- AI Workflows
+- Performance Optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+# Current Developer State
+
+```yaml
+Focus:
+  - Building useful products
+  - Learning advanced systems
+  - Improving design thinking
+
+Daily Routine:
+  - Code
+  - Design
+  - Research
+  - Repeat
+
+Long Term Goal:
+  - Create products people remember
+```
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=leadgentaha&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=7C3AED&text_color=AAAAAA" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=leadgentaha&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
+
+</div>
+
+---
+
+# Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leadgentaha&bg_color=00000000&color=7C3AED&line=7C3AED&point=FFFFFF&hide_border=true" />
+
+</div>
+
+---
+
+# Toolbox
+
+```txt
+Frontend   → React / Next.js / Tailwind
+Backend    → Node.js / Express
+Database   → MongoDB / Firebase
+Design     → Figma
+Automation → AI + Workflow Systems
+```
+
+---
+
+# Philosophy
+
+```js
+const philosophy = () => {
+   return "Good products combine logic with emotion.";
+};
+```
+
+---
+
+<div align="center">
+
+## Connect With Me
+
+<a href="https://github.com/leadgentaha">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:digitalservicespakistan1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### “I build digital experiences, not just interfaces.”
+
+</div>
