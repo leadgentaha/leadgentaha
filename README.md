@@ -1,186 +1,116 @@
 <div align="center">
 
-# Taha Faisal
-
-### CS Major • Builder • Designer • Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences;Design+%2B+Development;Jack+of+All+Trades;Currently+Building+FreelanceScore" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=leadgentaha&label=Profile+Views&color=7C3AED&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=leadgentaha&label=&color=0d0d0d&style=flat" />
 
 </div>
 
 ---
 
-# /about/taha.json
+```
+leadgentaha@github:~$ whoami
+```
+
+# Taha Faisal
+
+CS student. Full-stack builder. Design-native developer.  
+I work at the intersection of product thinking, systems design, and UI craft —  
+making things that are both technically sound and visually deliberate.
+
+Currently building **[FreelanceScore](https://github.com/leadgentaha)** — a reputation and trust layer for the freelance economy.
+
+---
+
+```
+leadgentaha@github:~$ cat stack.json
+```
 
 ```json
 {
-  "name": "Taha Faisal",
-  "role": "CS Major Student",
-  "identity": "Designer + Developer",
-  "mindset": "Build. Break. Improve.",
-  "currently_building": "FreelanceScore",
-  "speciality": "Turning ideas into digital products",
-  "status": "Always shipping something"
+  "frontend"  : ["Next.js", "React", "Tailwind CSS", "TypeScript"],
+  "backend"   : ["Node.js", "Express", "REST APIs"],
+  "database"  : ["MongoDB", "Firebase"],
+  "design"    : ["Figma", "UI Systems", "Motion Design"],
+  "infra"     : ["AWS", "Git", "Vercel"],
+  "exploring" : ["AI integrations", "Automation pipelines"]
 }
 ```
 
 ---
 
-## Who Am I?
-
-I’m a CS major who loves building digital products from scratch.
-
-Most people choose either **design** or **development**.  
-I decided to learn both.
-
-I enjoy creating products that not only work well technically, but also feel smooth, modern, and memorable.
-
----
-
-# Current Mission
-
-## FreelanceScore
-
-```txt
-A platform focused on trust, reputation,
-and smarter freelancer evaluation.
+```
+leadgentaha@github:~$ cat current_build.txt
 ```
 
-### Core Focus
-- Reputation Signals
-- Trust Metrics
-- Performance Scoring
-- Digital Identity
-- Freelance Analytics
+**FreelanceScore** &nbsp;·&nbsp; `status: active`
+
+> A platform for evaluating freelancer reputation through structured trust signals,  
+> performance metrics, and verified work history.  
+> Built for the gap between "good reviews" and actual reliability.
+
+Core modules in development:
+- `reputation_engine` — scoring model for freelancer credibility
+- `trust_signals` — multi-source identity and delivery verification  
+- `analytics_layer` — performance history and trend visualization
 
 ---
 
-# Tech Stack
+```
+leadgentaha@github:~$ ls capabilities/
+```
+
+```
+design/          → UI systems · brand identity · product design · motion
+development/     → full-stack apps · APIs · auth flows · automation
+product/         → feature scoping · UX decisions · system architecture
+workflow/        → AI-assisted pipelines · rapid prototyping · iteration
+```
+
+---
+
+```
+leadgentaha@github:~$ cat github_stats.sh && bash github_stats.sh
+```
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,ts,js,tailwind,figma,firebase,python,git,github,vscode,aws" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=leadgentaha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=6366f1&text_color=94a3b8&hide_title=true&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=leadgentaha&theme=dark&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leadgentaha&bg_color=0d1117&color=6366f1&line=6366f1&point=e2e8f0&hide_border=true&area=true&area_color=6366f120" />
 
 </div>
 
 ---
 
-# Design + Development
-
-<table>
-<tr>
-<td width="50%">
-
-## Design
-- UI/UX Systems
-- Brand Identity
-- Product Design
-- Motion Design
-- Creative Direction
-
-</td>
-
-<td width="50%">
-
-## Development
-- Full Stack Apps
-- APIs & Integrations
-- Automation Systems
-- AI Workflows
-- Performance Optimization
-
-</td>
-</tr>
-</table>
-
----
-
-# Current Developer State
-
-```yaml
-Focus:
-  - Building useful products
-  - Learning advanced systems
-  - Improving design thinking
-
-Daily Routine:
-  - Code
-  - Design
-  - Research
-  - Repeat
-
-Long Term Goal:
-  - Create products people remember
+```
+leadgentaha@github:~$ cat principles.md
 ```
 
----
+Design and engineering aren't separate disciplines — one without the other produces software that either works poorly or looks forgettable. I treat both as the same craft: making decisions that serve the user and hold up under scrutiny.
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=leadgentaha&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=7C3AED&text_color=AAAAAA" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=leadgentaha&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
-
-</div>
+Building isn't about output volume. It's about judgment — knowing which problems deserve solutions and what those solutions should actually feel like.
 
 ---
 
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leadgentaha&bg_color=00000000&color=7C3AED&line=7C3AED&point=FFFFFF&hide_border=true" />
-
-</div>
-
----
-
-# Toolbox
-
-```txt
-Frontend   → React / Next.js / Tailwind
-Backend    → Node.js / Express
-Database   → MongoDB / Firebase
-Design     → Figma
-Automation → AI + Workflow Systems
+```
+leadgentaha@github:~$ cat contact.env
 ```
 
----
-
-# Philosophy
-
-```js
-const philosophy = () => {
-   return "Good products combine logic with emotion.";
-};
+```env
+GITHUB   = github.com/leadgentaha
+EMAIL    = digitalservicespakistan1@gmail.com
+STATUS   = open to interesting problems
 ```
 
 ---
 
 <div align="center">
 
-## Connect With Me
-
-<a href="https://github.com/leadgentaha">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:digitalservicespakistan1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### “I build digital experiences, not just interfaces.”
+<sub>Built with intent. Refined with taste. Shipped with purpose.</sub>
 
 </div>
