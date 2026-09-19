@@ -45,6 +45,6 @@
   ],
   "mindset": "Build. Break. Improve.",
   "currently_building": "life",
-  "specialty": "Turning ideas into working products",
+  "specialty": "certified yapper",
   "status": "Always shipping something"
 }
