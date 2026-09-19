@@ -37,14 +37,14 @@
 ```json
 {
   "name": "Taha Faisal",
-  "role": "Computer Science Student",
+  "role": "Designer + Developer",
   "focus": [
     "Software Development",
     "Product Design",
-    "Digital Products"
+    "Digital Presence"
   ],
   "mindset": "Build. Break. Improve.",
-  "currently_building": "FreelanceScore",
+  "currently_building": "life",
   "specialty": "Turning ideas into working products",
   "status": "Always shipping something"
 }
